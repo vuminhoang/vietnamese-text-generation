@@ -3,7 +3,7 @@ Tôi sẽ cố gắng tạo một tool có thể tạo ra các đoạn rap bằn
 
 ## Ý tưởng
 ### 1. Dataset
-- Cần tạo 1 instruction dataset có cấu trúc như kiểu:
+Cần tạo 1 instruction dataset có cấu trúc như kiểu:
 
 ---
 - **Primer Prompt:**
@@ -14,3 +14,4 @@ Tôi sẽ cố gắng tạo một tool có thể tạo ra các đoạn rap bằn
 - **Instruction:** Mô tả yêu cầu chính mà người dùng đặt ra.
 - **Input:** Thông tin bổ sung giúp tạo ngữ cảnh hoặc phong cách (có thể để trống nếu không cần thiết).
 - **Output:** Kết quả là lời rap được sinh ra dựa trên yêu cầu và ngữ cảnh.
+---
